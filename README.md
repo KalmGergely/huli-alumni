@@ -5,10 +5,11 @@ Welcome to my page, my name is Gergő and I'm a fresh alumni of Green Fox Academ
 ## Contact me
 [LinkedIn](https://www.linkedin.com/in/gergelykalm/) 
 
-Email: [kalm.gergely@gmail.com](kalm.gergely@gmailcom)
+Email: kalm.gergely@gmail.com
 
-## &rarr; [Coding projects](https://github.com/green-fox-academy/definitions/tree/master/project-phase/huli/coding-projects)
-{project-name}: {link-to-repo}
+## &rarr; [Coding projects and progression](https://github.com/green-fox-academy/definitions/tree/master/project-phase/huli/coding-projects)
+[Learning Android Development with Kotlin](https://github.com/KalmGergely/learningAndroid)
+[Practicing the MERN stack](https://github.com/KalmGergely/MERN_stack_practice)
 
 ## &rarr; [Interview prep](https://github.com/green-fox-academy/teaching-materials/tree/master/interview)
 LeetCode: https://leetcode.com/KalmanGergely
